@@ -1,4 +1,4 @@
 function getFirstSelector(selector) {
-  document.querySelector('li')
+  document.querySelectorAll('li')
   return selector
 }
